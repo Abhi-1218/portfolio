@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/pawantech12/portfolio-website)
-  ![GitHub stars](https://img.shields.io/github/stars/pawantech12/portfolio-website?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/pawantech12/portfolio-website?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Abhi-1218/portfolio-website)
+  ![GitHub stars](https://img.shields.io/github/stars/Abhi-1218/portfolio-website?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/Abhi1218/portfolio-website?style=social)
 
   <br />
 
@@ -18,7 +18,7 @@ Responsive Portfolio Website using HTML, CSS, and JavaScript.
 
 ### Desktop Preview
 
-https://github.com/pawantech12/portfolio-website/assets/118673866/0322c419-a173-4aa9-a360-b09bd7bd24aa
+https://github.com/Abhi-1218/portfolio-website/assets/118673866/0322c419-a173-4aa9-a360-b09bd7bd24aa
 
 ### Prerequisites
 
