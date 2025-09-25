@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/Abhi-1218/portfolio-website)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Abhi-1218/portfolio_website)
   ![GitHub stars](https://img.shields.io/github/stars/Abhi-1218/portfolio-website?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/Abhi1218/portfolio-website?style=social)
 
@@ -10,7 +10,7 @@
 
 Responsive Portfolio Website using HTML, CSS, and JavaScript.
 
-<a href="https://Abhi-1218.github.io/portfolio-website/"><strong>➥ Live Demo</strong></a>
+<a href="https://Abhi-1218.github.io/portfolio_website/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -18,7 +18,7 @@ Responsive Portfolio Website using HTML, CSS, and JavaScript.
 
 ### Desktop Preview
 
-https://github.com/Abhi-1218/portfolio-website/assets/118673866/0322c419-a173-4aa9-a360-b09bd7bd24aa
+https://github.com/Abhi-1218/portfolio_website/assets/118673866/0322c419-a173-4aa9-a360-b09bd7bd24aa
 
 ### Prerequisites
 
